@@ -3,7 +3,7 @@
 - 💻 I'm currently doing my first software development internship with Progressive Insurance in Cleveland, Ohio.
 - 🌱 I’m looking to gain experience in all aspects of software development.
 - 💾 www.aidankiser.com
-- 📫 kiseraidan@gmail.com
+- 📫 aidan@kiser.io
 
 <!---
 kiseraidan/kiseraidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
