@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aidan Kiser.
 - 📚 I’m currently studying Computer Science at Auburn University.
-- 💻 I just finished up my first software development internship with Progressive Insurance in Cleveland, Ohio.
+- 💻 I'm also doing my second internship with Nucor in Decatur, AL.
 - 🌱 I’m looking to gain experience in all aspects of software development.
 - 💾 www.aidankiser.com
 - 📫 aidan@kiser.io
