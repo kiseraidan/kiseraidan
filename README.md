@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aidan Kiser.
-- 📚 I’m currently studying Computer Science at Auburn University.
-- 💻 I just got done with my second development internship with the Nucor Corporation.
+- 📚 I graduated with a bachelor's in Computer Science from Auburn University.
+- 💻 I'm currently a Data Engineer with Aflac.
 - 🌱 I’m looking to gain experience in all aspects of software development.
 - 💾 www.aidankiser.com
 - 📫 aidan@kiser.io
